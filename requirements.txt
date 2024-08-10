@@ -1,0 +1,5 @@
+tableauserverclient
+tableauhyperapi
+snowflake-connector-python
+pyyaml
+python-dotenv
