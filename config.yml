@@ -1,0 +1,3 @@
+config:
+  target_schema: TABLEAU_CLOUD
+  target_table_prefix: null
