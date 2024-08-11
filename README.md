@@ -74,8 +74,5 @@ is a high level overview of the steps taken.
    in Snowflake.
 
 ## Future Goals
-1. Better inline code documentation
-2. More informative `README.md`
-3. Revisit code for efficiency and clarity improvements
-4. Add [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) so tables are loaded in parallel
-5. Look into incremental load strategies
+1. More informative `README.md`
+2. Look into incremental load strategies
